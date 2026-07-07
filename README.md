@@ -1,8 +1,8 @@
-# TriOS
+# TriOS  
+![Image alt](https://github.com/megatag1234/TriOS/blob/72868fb6264a185490d649da3189dab9a3f67883/costume1.svg)
 ## An OS in the works
 
 
-![Image alt](https://github.com/megatag1234/TriOS/blob/72868fb6264a185490d649da3189dab9a3f67883/costume1.svg)
 
 
 
