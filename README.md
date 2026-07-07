@@ -4,4 +4,4 @@ Made with Turbowarp, TriOS is a simple OS made for young people, you can change 
 background and emulate html games, but of course more features are being added...
 
 [Click here](https://github.com/megatag1234/TriOS/releases/download/release/TriOS.zip) to get the latest version.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
